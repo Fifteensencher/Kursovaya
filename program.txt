@@ -1,0 +1,6 @@
+Var x,y,r;
+Begin
+x=3;
+y=-2;
+r=5;
+End
